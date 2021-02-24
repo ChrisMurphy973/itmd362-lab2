@@ -6,6 +6,10 @@ html {
     padding: 1.555555em;
     background: #ecd6a6;
 }
+body{
+    border: 1em solid rgb(0, 0, 0);
+    border-radius: 1em;
+}
 h1 {
     font-size: 1.75em;
     font-weight: bolder;
