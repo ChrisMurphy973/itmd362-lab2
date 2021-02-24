@@ -18,6 +18,10 @@ form{
 li {
     padding-bottom: .75em;
 }
+main{
+    border: 2px solid rgb(66, 66, 66);
+    border-radius: 5px;
+}
 @media screen and (min-width: 3.5em) {
     li{
         text-align: left;
