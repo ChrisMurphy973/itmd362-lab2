@@ -12,9 +12,10 @@ h1 {
     font-weight: bolder;
     padding-bottom: .75em;
 }
+form{
+    margin: 1em;
+}
 li {
-    border: 1em solid rgb(0, 0, 0);
-    border-radius: 1em;
     padding-bottom: .75em;
 }
 @media screen and (min-width: 3.5em) {
