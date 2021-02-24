@@ -18,7 +18,7 @@ form{
 li {
     padding-bottom: .75em;
 }
-main{
+fieldset{
     border: 2px solid rgb(66, 66, 66);
     border-radius: 5px;
 }
