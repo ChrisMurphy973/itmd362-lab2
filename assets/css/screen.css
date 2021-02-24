@@ -11,6 +11,7 @@ h1 {
     font-size: 1.75em;
     font-weight: bolder;
     padding-bottom: .25em;
+    border-bottom: 5px solid rgb(175, 172, 172);
 }
 form{
     margin: 2em;
