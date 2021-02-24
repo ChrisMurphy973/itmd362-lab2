@@ -21,7 +21,7 @@ li {
 fieldset{
     border-top-width: 5px;
     border: 2px solid rgb(66, 66, 66);
-    border-radius: 5px;
+    border-radius: 10px;
 }
 @media screen and (min-width: 3.5em) {
     li{
