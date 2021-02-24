@@ -18,6 +18,10 @@ form{
 li {
     padding-bottom: .75em;
 }
+body{
+    border-right-style: solid;
+    margin-right: 100em;
+}
 fieldset{
     border-top-width: 5px;
     border: 2px solid rgb(66, 66, 66);
